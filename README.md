@@ -24,3 +24,12 @@ To support Cyclistic’s marketing goal of converting casual riders into annual 
 -   Analysis Summary: A synthesis of findings on the differences in usage between casual riders and annual members.
 -   Visualizations and Key Findings: Graphs, charts, and visuals that effectively present the analysis results and highlight key patterns and insights.
 -   Top Three Recommendations: Actionable recommendations based on the analysis to help Cyclistic convert casual riders into members.
+
+**Determine the credibility of the data:**
+
+Data has been downloaded from [here](https://divvy-tripdata.s3.amazonaws.com/index.html). All trip data is in comma-delimited (.CSV) format with 13 columns.The time period in consideration is October 2023 - September 2024. Due to the fact that this is a case study using public data, we are going to assume the given dataset is original, comprehensive and it has been properly cited.
+
+This data will allow us to analyze and compare trip duration, bike type usage, trip start and end times, and frequency of rides between casual riders and annual members, supporting the business task of identifying key differences in how these customer segments use Cyclistic bikes.
+
+Note: The datasets have a different name because Cyclistic is a fictional company. The data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement). The data-privacy issues prohibits from using rider's personally identifiable information.
+
