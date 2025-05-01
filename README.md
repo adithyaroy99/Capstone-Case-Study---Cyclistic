@@ -1,6 +1,6 @@
-# Capstone-Case-Study---Cyclistic
+# Capstone Case Study - Cyclistic
 
-This exploratory analysis case study is towards Capstone project requirement for [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics). It’s originally based on the case study "'Sophisticated, Clear, and Polished’: [Divvy and Data Visualization](https://artscience.blog/home/divvy-dataviz-case-study)" written by Kevin Hartman. The case study involves a fictional bike share company's data of its customer's trip details over a 12 month period (October 2023 - September 2024).
+This exploratory analysis case study is towards Capstone project requirement for [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) using R. It’s originally based on the case study "'Sophisticated, Clear, and Polished’: [Divvy and Data Visualization](https://artscience.blog/home/divvy-dataviz-case-study)" written by Kevin Hartman. The case study involves a fictional bike share company's data of its customer's trip details over a 12 month period (October 2023 - September 2024).
 
 ## Scenario
 
